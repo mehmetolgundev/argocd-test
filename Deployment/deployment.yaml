@@ -11,6 +11,7 @@ spec:
     metadata:
       labels:
         app: argocd-test
+        version: "v2"
     spec:
       containers:
       - name: argocd-test-app
