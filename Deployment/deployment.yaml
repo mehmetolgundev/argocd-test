@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: argocd-test-app
-        image: memolg4250/argocd-test:v1
+        image: memolg4250/argocd-test:v2
